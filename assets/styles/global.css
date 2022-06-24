@@ -1,3 +1,42 @@
 body {
   font-family: 'Source Sans Pro', sans-serif !important;
 }
+
+h1 { 
+  font-family: 'Raleway', sans-serif;
+  font-size: 22px;
+  margin: 0 8px;
+}
+
+.text-primary {
+  color: #950101;
+}
+
+.text-secondary {
+  color: #F5F5F5 !important;
+}
+
+.bg-primary {
+  background-color: #950101 !important;
+}
+
+.bg-secondary {
+  background-color: #F5F5F5 !important;
+}
+
+.header-divider {
+  width: 1px;
+  height: 30px;
+}
+
+.header-icon {
+  font-size: 20px;
+}
+
+.form-control {
+  border: none;
+}
+
+.form-control:focus {
+  box-shadow: none;
+}
